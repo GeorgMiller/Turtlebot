@@ -1,0 +1,23 @@
+[0.517s] running egg_info
+[0.518s] writing /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/PKG-INFO
+[0.518s] writing dependency_links to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/dependency_links.txt
+[0.518s] writing entry points to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/entry_points.txt
+[0.519s] writing requirements to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/requires.txt
+[0.519s] writing top-level names to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/top_level.txt
+[0.554s] reading manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.556s] writing manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.556s] running build
+[0.556s] running build_py
+[0.556s] copying dqn/turtlebot.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn
+[0.556s] running install
+[0.557s] running install_lib
+[0.558s] copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn/turtlebot.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn
+[0.558s] byte-compiling /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn/turtlebot.py to turtlebot.cpython-36.pyc
+[0.559s] running install_data
+[0.559s] copying package.xml -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/dqn
+[0.560s] running install_egg_info
+[0.561s] removing '/home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info' (and everything under it)
+[0.562s] Copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info
+[0.563s] running install_scripts
+[0.582s] Installing turtlebot script to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/dqn
+[0.582s] writing list of installed files to '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log'

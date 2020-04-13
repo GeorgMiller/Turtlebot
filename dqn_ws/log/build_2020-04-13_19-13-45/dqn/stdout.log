@@ -1,0 +1,23 @@
+[0.520s] running egg_info
+[0.520s] writing /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/PKG-INFO
+[0.521s] writing dependency_links to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/dependency_links.txt
+[0.521s] writing entry points to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/entry_points.txt
+[0.521s] writing requirements to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/requires.txt
+[0.521s] writing top-level names to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/top_level.txt
+[0.557s] reading manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.558s] writing manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.558s] running build
+[0.558s] running build_py
+[0.559s] copying dqn/dqn.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn
+[0.559s] running install
+[0.559s] running install_lib
+[0.560s] copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn/dqn.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn
+[0.561s] byte-compiling /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn/dqn.py to dqn.cpython-36.pyc
+[0.562s] running install_data
+[0.562s] copying package.xml -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/dqn
+[0.562s] running install_egg_info
+[0.564s] removing '/home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info' (and everything under it)
+[0.565s] Copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info
+[0.566s] running install_scripts
+[0.585s] Installing talker script to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/dqn
+[0.585s] writing list of installed files to '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log'

@@ -1,0 +1,33 @@
+[0.289s] Invoking command in '/home/georg/Dokumente/Turtlebot/dqn_ws/src/dqn': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn build --build-base /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build install --prefix /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn --record /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log --single-version-externally-managed
+[0.526s] running egg_info
+[0.526s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info
+[0.527s] writing /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/PKG-INFO
+[0.527s] writing dependency_links to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/dependency_links.txt
+[0.527s] writing entry points to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/entry_points.txt
+[0.527s] writing requirements to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/requires.txt
+[0.527s] writing top-level names to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/top_level.txt
+[0.532s] writing manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.571s] reading manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.573s] running build
+[0.573s] running build_py
+[0.573s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build
+[0.573s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib
+[0.573s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn
+[0.573s] copying dqn/__init__.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn
+[0.573s] running install
+[0.573s] running install_lib
+[0.575s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn
+[0.575s] copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn/__init__.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn
+[0.575s] byte-compiling /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn/__init__.py to __init__.cpython-36.pyc
+[0.575s] running install_data
+[0.576s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/ament_index
+[0.576s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/ament_index/resource_index
+[0.576s] creating /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/ament_index/resource_index/packages
+[0.577s] copying resource/dqn -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/ament_index/resource_index/packages
+[0.577s] copying package.xml -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/dqn
+[0.577s] running install_egg_info
+[0.579s] Copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info
+[0.580s] running install_scripts
+[0.602s] writing list of installed files to '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log'
+[0.625s] Invoked command in '/home/georg/Dokumente/Turtlebot/dqn_ws/src/dqn' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn build --build-base /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build install --prefix /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn --record /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log --single-version-externally-managed

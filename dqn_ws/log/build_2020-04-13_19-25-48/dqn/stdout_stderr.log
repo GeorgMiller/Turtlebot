@@ -1,0 +1,23 @@
+[0.522s] running egg_info
+[0.522s] writing /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/PKG-INFO
+[0.522s] writing dependency_links to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/dependency_links.txt
+[0.523s] writing entry points to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/entry_points.txt
+[0.523s] writing requirements to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/requires.txt
+[0.523s] writing top-level names to /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/top_level.txt
+[0.558s] reading manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.559s] writing manifest file '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info/SOURCES.txt'
+[0.560s] running build
+[0.560s] running build_py
+[0.560s] copying dqn/main.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn
+[0.560s] running install
+[0.561s] running install_lib
+[0.561s] copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/build/lib/dqn/main.py -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn
+[0.562s] byte-compiling /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn/main.py to main.cpython-36.pyc
+[0.563s] running install_data
+[0.564s] copying package.xml -> /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/share/dqn
+[0.564s] running install_egg_info
+[0.566s] removing '/home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info' (and everything under it)
+[0.566s] Copying /home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/dqn.egg-info to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/python3.6/site-packages/dqn-0.0.0-py3.6.egg-info
+[0.567s] running install_scripts
+[0.586s] Installing turtlebot script to /home/georg/Dokumente/Turtlebot/dqn_ws/install/dqn/lib/dqn
+[0.587s] writing list of installed files to '/home/georg/Dokumente/Turtlebot/dqn_ws/build/dqn/install.log'
