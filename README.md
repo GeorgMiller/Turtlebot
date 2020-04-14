@@ -7,6 +7,7 @@ okay to execute everything do the following:
 run : 
 
 export TURTLEBOT3_MODEL=burger
+
 ros2 launch turtlebot3_gazebo empty_world.launch.py
 
 
@@ -26,6 +27,7 @@ and:
 then run 
 
 export TURTLEBOT3_MODEL=burger
+
 ros2 run dqn turtlebot
 
 to edit the file go to 
